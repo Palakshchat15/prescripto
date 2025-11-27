@@ -8,7 +8,7 @@ const Footer = () => {
             {/* left side */}
             <div>
                <img className='mb-5 w-40' src={assets.logo} alt="" />
-               <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae distinctio fugiat modi assumenda explicabo voluptatibus quis, nemo eos suscipit? Harum corporis animi obcaecati eaque ut omnis nemo. Soluta, tempore fugit.</p>
+               <p className='w-full md:w-2/3 text-gray-600 leading-6'>A robust Doctor Appointment Booking System that manages patient scheduling, provides availability, and prescription fulfillment, streamlining clinic operations. The system securely handles patient data and allows doctors to electronically issue, track, and manage all medication prescriptions directly within the platform.</p>
             </div>
             {/* center  */}
             <div>
